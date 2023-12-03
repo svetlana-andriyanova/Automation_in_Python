@@ -1,0 +1,8 @@
+url: "https://test-stand.gb.ru/gateway/login"
+login: "kitty89"
+password: "61d96a3985"
+url_get: "https://test-stand.gb.ru/api/posts"
+url_post: "https://test-stand.gb.ru/api/posts?_ga=2.98834590.1031290318.1700754000-1809671657.1700754000"
+title: "GOOD DAY"
+description: "DESCRIPTION OF GOOD DAY"
+content: "A LOT OF GOOD DAY"
