@@ -1,0 +1,8 @@
+address: https://test-stand.gb.ru/
+browser: chrome
+sleep_time: 1
+login: "Petrr"
+password: "fa258a35d9"
+title: "NEW POST"
+discription: "discription for NEW POST"
+content: "content for NEW POST"
