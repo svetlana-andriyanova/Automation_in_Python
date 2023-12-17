@@ -1,0 +1,28 @@
+2023-12-17 12:54:31 INFO ====== WebDriver manager ======
+2023-12-17 12:54:33 INFO Get LATEST chromedriver version for google-chrome
+2023-12-17 12:54:33 INFO Get LATEST chromedriver version for google-chrome
+2023-12-17 12:54:34 INFO Driver [C:\Users\S&S\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 12:54:38 INFO Test 1
+2023-12-17 12:54:44 INFO send test to element //*[@id="login"]/div[1]/label/input
+2023-12-17 12:54:44 INFO send test to element //*[@id="login"]/div[2]/label/input
+2023-12-17 12:54:45 INFO Click logging button
+2023-12-17 12:54:46 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2023-12-17 12:54:46 INFO Test 2
+2023-12-17 12:54:46 INFO send Petrr to element //*[@id="login"]/div[1]/label/input
+2023-12-17 12:54:47 INFO send fa258a35d9 to element //*[@id="login"]/div[2]/label/input
+2023-12-17 12:54:47 INFO Click logging button
+2023-12-17 12:54:48 INFO We find text Blog in login page //*[@id="app"]/main/div/div/div[2]/h2
+2023-12-17 12:54:48 INFO Test 3
+2023-12-17 12:54:49 INFO Click new post button
+2023-12-17 12:54:50 INFO Send more NEW POST to element //*[@id="create-item"]/div/div/div[1]/div/label/input
+2023-12-17 12:54:50 INFO Send discription for NEW POST to element //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
+2023-12-17 12:54:50 INFO Send Yo ho ho to element //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+2023-12-17 12:54:51 INFO Click save new post button
+2023-12-17 12:54:52 INFO We find text Yo ho ho in login page //*[@id="app"]/main/div/div[1]/div/div[3]
+2023-12-17 12:54:52 INFO Test 4
+2023-12-17 12:54:52 INFO Click Contact button
+2023-12-17 12:54:52 INFO Send test_name to element //*[@id="contact"]/div[1]/label/input
+2023-12-17 12:54:53 INFO Send user@user.ru to element //*[@id="contact"]/div[2]/label/input
+2023-12-17 12:54:53 INFO Send any content to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-12-17 12:54:54 INFO Click Send button
+2023-12-17 12:54:54 INFO Switch alert
